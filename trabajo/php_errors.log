@@ -1,0 +1,2 @@
+[14-Jun-2017 12:27:06 America/Bogota] PHP Fatal error:  Cannot use App\Evaluacion as Evaluacion because the name is already in use in /home/ubuntu/workspace/trabajo/app/Http/Controllers/EvaluacionController.php on line 11
+[14-Jun-2017 14:36:24 America/Bogota] PHP Fatal error:  Cannot redeclare App\Http\Controllers\EvaluacionController::index() in /home/ubuntu/workspace/trabajo/app/Http/Controllers/EvaluacionController.php on line 40
